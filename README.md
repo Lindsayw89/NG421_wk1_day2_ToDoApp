@@ -23,7 +23,7 @@
     ```json
       "styles": [
         "node_modules/bootstrap/dist/css/bootstrap.min.css",
-        "src/styles.scss"
+        "src/styles.css"
       ]
     ```
 
